@@ -1,0 +1,17 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
+  "forceUpdate": false,
+  "minVersionCode": 1,
+  "title": "Elite Update",
+  "message": "Naya update aa gaya hai! Naye features aur fixes ke liye update kar lo.",
+  "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/banner.jpg",
+  "downloadUrl": "https://t.me/elitevishal",
+  "telegramUrl": "https://t.me/elitevishal",
+  "showEveryOpen": true,
+  "buttons": {
+    "update": "Update Now",
+    "telegram": "Join Telegram",
+    "later": "Later"
+  }
+}
